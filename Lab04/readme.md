@@ -13,7 +13,6 @@ Objective
 
 Folder structure
 ```
-----------------
 project/
 │
 ├── main.py
@@ -23,11 +22,10 @@ project/
 ```
 How to run
 ```
-----------
 python main.py
-
+```
 User input
-----------
+```
 The program asks:
 Row (x)
 Column (y)
