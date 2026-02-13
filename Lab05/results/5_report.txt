@@ -1,0 +1,4 @@
+Image        : 5.tif
+Noise type   : salt_pepper
+Spatial PSNR : 19.8421 dB
+Freq PSNR    : 19.7566 dB
