@@ -92,33 +92,7 @@ Quality Evaluation
 
 The quality of the restored images is evaluated using PSNR:
 ```
-𝑃
-𝑆
-𝑁
-𝑅
-=
-10
-log
-⁡
-10
-(
-255
-2
-𝑀
-𝑆
-𝐸
-)
-PSNR=10log
-10
-	​
-
-(
-MSE
-255
-2
-	​
-
-)
+PSNR = 10 * log10( (255^2) / MSE )
 ```
 where MSE is the mean squared error between the reference image and the denoised image.
 
