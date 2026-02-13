@@ -1,7 +1,5 @@
-Below is a clean, submission-ready README for your Lab-05.
-You can directly copy-paste this as README.md.
-
-Image Denoising and Quality Evaluation (Lab-05)
+Image Denoising and Quality Evaluation
+------------------------------------------------
 Aim
 
 For the given images (1.tif to 7.tif), estimate the noise type, apply appropriate spatial-domain and frequency-domain denoising filters, and evaluate the quality of the restored images using PSNR.
